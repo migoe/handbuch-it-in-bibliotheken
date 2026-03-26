@@ -444,7 +444,7 @@ der im Prozess befindlichen Objekte zu speichern und darzustellen.
 Aufgrund der hohen Spezialisierung ist die Auswahl an WMS für
 bibliothekarische Digitalisierungsprozesse überschaubar. Dazu gehören
 sowohl kommerzielle Produkte, wie z.B. [Visual Library](https://www.semantics.de/visual_library/)
-aber auch frei verfügbare Open-Source-Systeme wie [*Kitodo*](https://www.kitodo.org/).
+aber auch frei verfügbare Open-Source-Systeme wie [*Kitodo*](https://www.kitodo.org/) oder [*Goobi*](https://goobi.io).
 
 Der wesentliche Unterschied zwischen den Tools -- neben der Frage der
 Lizenz -- ist deren Modularität. Bei einigen Lösungen sind z.B. die
